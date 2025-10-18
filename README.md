@@ -64,5 +64,33 @@ Clean and structure patient data to support demographic profiling, diagnosis tra
 
 ---
 
+## 📊 Project 3: Pizza Sales Analysis  
+
+### 📌 Overview  
+Analyzed a pizza sales dataset to extract meaningful business insights using **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**. Focused on KPIs, sales trends, category/size performance, and product-level analysis to support data-driven decisions in sales, inventory, and staffing.  
+
+### 🎯 Key KPIs  
+- **Total Revenue:** $817,860.05  
+- **Total Pizzas Sold:** 49,574  
+- **Total Orders:** 21,350  
+- **Average Order Value (AOV):** $38.31  
+- **Average Pizzas per Order:** 2.32  
+
+### 🔍 Insights  
+- 📈 Sales peak on **Fridays and Saturdays**, showing weekend demand surge.  
+- 🍕 **Large pizzas** generate the most revenue.  
+- 🏆 Top sellers: **Thai Chicken, Barbecue Chicken, California Chicken**.  
+- 📉 Bottom pizzas suggest possible menu review.  
+- 🌶️ Most frequent ingredients: **mozzarella, mushrooms, onions, peppers**.  
+
+### 📂 Files  
+- `pizza_sales_analysis/notebooks/Pizza_Sales_Analysis.ipynb` → Full analysis notebook  
+- `pizza_sales_analysis/data/pizza_sales.csv` → Dataset  
+- `pizza_sales_analysis/docs/Business_Requirements_Document.pdf` → Business requirements  
+- `pizza_sales_analysis/reports/figs/` → Saved charts  
+
+---
+
+
 ## 📁 Folder Structure
 
